@@ -13,3 +13,5 @@ ios/Runner/GeneratedPluginRegistrant.*
 *.iml
 
 coverage/
+
+.fvm/flutter_sdk

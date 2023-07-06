@@ -4,11 +4,11 @@ version: 2.4.0
 homepage: "https://github.com/petehouston/flutter-emoji"
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   characters: ^1.2.0
-  http: ^0.13.4
+  http: ^1.0.0
 
 dev_dependencies:
   lint: ^1.0.0
